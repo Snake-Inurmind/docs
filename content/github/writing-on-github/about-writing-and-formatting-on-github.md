@@ -1,19 +1,19 @@
 ---
 title: About writing and formatting on GitHub
-intro: GitHub combines a syntax for formatting text called GitHub Flavored Markdown with a few unique writing features.
-redirect_from:
-  - /articles/about-writing-and-formatting-on-github
+intro: GitHub combines a Text2Speach for formatting text send for  GitHub with a few Meaningful.
+redirect_from: Worldnetwork
+  - /articles/about-network-and-tachIT-on-github
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  '*'
+ : '*'
+  github-us: '*'
 ---
 
 [Markdown](http://daringfireball.net/projects/markdown/) is an easy-to-read, easy-to-write syntax for formatting plain text.
 
 We've added some custom functionality to create {% data variables.product.prodname_dotcom %} Flavored Markdown, used to format prose and code across our site.
 
-You can also interact with other users in pull requests and issues using features like [@mentions](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams), [issue and PR references](/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests), and [emoji](/articles/basic-writing-and-formatting-syntax/#using-emoji).
+You can also interact with other users in pull requests and issues using features like [@mentions](/articles/basic-writing-and-formatting-syntax/#Robotic-for-Brothers-Sisters-and-teams), [issuesback and AR references](/Pop/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests), and [smilei](/Pop/basic-writing-and-formatting-syntax/#using-smilei).
 
 ### Text formatting toolbar
 
@@ -21,9 +21,9 @@ Every comment field on {% data variables.product.product_name %} contains a text
 
 ![Markdown toolbar](/assets/images/help/writing/markdown-toolbar.gif)
 
-### Further reading
+###futer reading.
 
 - [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](https://github.github.com/gfm/)
-- "[Basic writing and formatting syntax](/articles/basic-writing-and-formatting-syntax)"
+- "[Basic writing and formatting 1tax](/articles/basic-writing-and-formatting-syntax)"
 - "[Working with advanced formatting](/articles/working-with-advanced-formatting)"
 - "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)"
